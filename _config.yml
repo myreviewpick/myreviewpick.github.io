@@ -21,7 +21,7 @@ title                    : "쇼핑사이"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "shopping42"
-description              : "좋은 상품정보"
+description              : "쿠팡 베스트 상품 추천 및 리뷰. 가전, 생활용품, 패션 등 다양한 카테고리의 가성비 좋은 상품을 소개합니다."
 url                      : "https://shopping42.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -68,9 +68,9 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : # true, false (default)
-search                   : # true, false (default)
-search_full_content      : # true, false (default)
-search_provider          : # lunr (default), algolia, google
+search                   : true
+search_full_content      : true
+search_provider          : lunr
 lunr:
   search_within_pages    : # true, false (default)
 algolia:
@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "쇼핑사이"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "상품의 상세정보 및 리뷰를보고 구매하세요"
+  bio              : "쿠팡 파트너스 활동을 통해 좋은 상품을 소개합니다. 상품의 상세정보 및 리뷰를 확인하고 현명한 구매하세요!"
   location         : "Somewhere"
   email            :
   links:
