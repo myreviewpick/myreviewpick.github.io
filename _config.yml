@@ -17,11 +17,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "ko-KR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "쇼핑사이"
+title                    : "나의리뷰픽"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "shopping42"
-description              : "쿠팡 베스트 상품 추천 및 리뷰. 가전, 생활용품, 패션 등 다양한 카테고리의 가성비 좋은 상품을 소개합니다."
+name                     : "myreviewpick"
+description              : " 베스트 상품 추천 및 리뷰. 가전, 생활용품, 패션 등 다양한 카테고리의 가성비 좋은 상품을 소개합니다."
 url                      : "https://shopping42.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -113,9 +113,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "쇼핑사이"
+  name             : "나의리뷰픽"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "쿠팡 파트너스 활동을 통해 좋은 상품을 소개합니다. 상품의 상세정보 및 리뷰를 확인하고 현명한 구매하세요!"
+  bio              : "상품을 제대로 리뷰해주는 쇼핑블로그!"
   location         : "Somewhere"
   email            :
   links:
@@ -324,3 +324,4 @@ defaults:
       share: true
       related: true
       
+
