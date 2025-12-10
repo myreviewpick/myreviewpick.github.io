@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://shopping42.github.io/sitemap.xml
+Sitemap: https://myreviewpick.github.io/sitemap.xml
