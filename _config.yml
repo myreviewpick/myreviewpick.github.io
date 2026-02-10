@@ -84,7 +84,7 @@ google:
 # SEO Related
 google_site_verification : "wYI691jLJJcCGDUHEKLHiMCiG6RGFSbe9-rfyCSjioQ"
 bing_site_verification   :
-naver_site_verification  : 
+naver_site_verification  : "727ca8a3bb9ca5071464632c71faf67fdbf54c91"
 yandex_site_verification :
 baidu_site_verification  :
 
@@ -322,6 +322,7 @@ defaults:
       share: true
       related: true
       
+
 
 
 
